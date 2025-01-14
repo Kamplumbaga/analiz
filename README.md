@@ -1,0 +1,2 @@
+# analiz
+İsim_analiz
